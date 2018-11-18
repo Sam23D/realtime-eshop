@@ -4,4 +4,9 @@ defmodule AudionationsWeb.PageController do
   def index(conn, _params) do
     render conn, "index.html"
   end
+
+  def catalog_index(conn, params \\ %{} )do
+    render(conn, "catalog.html")
+  end
+
 end

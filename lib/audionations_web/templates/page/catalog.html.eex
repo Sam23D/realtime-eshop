@@ -1,0 +1,84 @@
+<div id="nav" class="bg-white px-240">
+    <ul class="list-reset text-right">
+        <li class="text-2xl py-8 text-black  pl-24 font-bold">CATEGORIES</li>
+        <!--hr class="border-t pb-8 text-black l-24 border-grey-darkest" -->
+        <li class="text-xl pt-2  text-black pl-24 font-light">AUTUM</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">WINTER</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">SRING</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">SUMMER</li>
+        <li class="h-8"></li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">MEN</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">WOMEN</li>
+        <li class="h-8"></li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">BAGS</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">JEANS</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">DRESSES</li>
+        <li class="text-xl pt-2  text-black pl-24 font-light">SUITS</li>
+    </ul>
+</div>
+<div id="content"class=" flex-auto" >
+    <div class="flex py-8 border-b border-black ml-16">
+        <label for="search"><i class="fas fa-search text-2xl text-black pr-4"></i></label>   
+        <input type="text" id="search" class="text-2xl font-bold uppercase text-black flex-auto" >
+    </div>
+    <div class="flex flex-wrap justify-between pl-16 pt-2">
+
+        <div class="flex flex-col max-w-xs mt-4 flex-1"> <!--CATEGORY ITEM-->
+            <div class="bg-grey" style="height: 28rem; width: 20rem" ></div>
+            <p class="text-black text-sm font-bold uppercase mt-2">blazer rojo</p>
+            <div class="flex justify-between flex-row-reverse  py-2">
+                <div class="flex">
+                    <p class="text-black font-bold pr-4 uppercase line-through">$ 1500 </p>
+                    <p class="text-black font-bold pr-2 uppercase text-red-dark">$ 1199 </p>    
+                </div>
+                <p class="text-grey-dark hover:text-black font-bold ">ADD TO CART</p>
+            </div>
+        </div>
+        <div class="flex flex-col max-w-xs mt-4 flex-1"> <!--CATEGORY ITEM-->
+            <div class="bg-grey" style="height: 28rem; width: 20rem" ></div>
+            <p class="text-black text-sm font-bold uppercase mt-2">blazer rojo</p>
+            <div class="flex justify-between flex-row-reverse  py-2">
+                <div class="flex">
+                    <p class="text-black font-bold pr-4 uppercase line-through">$ 1500 </p>
+                    <p class="text-black font-bold pr-2 uppercase text-red-dark">$ 1199 </p>    
+                </div>
+                <p class="text-grey-dark hover:text-black font-bold ">ADD TO CART</p>
+            </div>
+        </div>
+        <div class="flex flex-col max-w-xs mt-4 flex-1"> <!--CATEGORY ITEM-->
+            <div class="bg-grey" style="height: 28rem; width: 20rem" ></div>
+            <p class="text-black text-sm font-bold uppercase mt-2">blazer rojo</p>
+            <div class="flex justify-between flex-row-reverse  py-2">
+                <div class="flex">
+                    <p class="text-black font-bold pr-4 uppercase line-through">$ 1500 </p>
+                    <p class="text-black font-bold pr-2 uppercase text-red-dark">$ 1199 </p>    
+                </div>
+                <p class="text-grey-dark hover:text-black font-bold ">ADD TO CART</p>
+            </div>
+        </div>
+        <div class="flex flex-col max-w-xs mt-4 flex-1"> <!--CATEGORY ITEM-->
+            <div class="bg-grey" style="height: 28rem; width: 20rem" ></div>
+            <p class="text-black text-sm font-bold uppercase mt-2">blazer rojo</p>
+            <div class="flex justify-between flex-row-reverse  py-2">
+                <div class="flex">
+                    <p class="text-black font-bold pr-4 uppercase line-through">$ 1500 </p>
+                    <p class="text-black font-bold pr-2 uppercase text-red-dark">$ 1199 </p>    
+                </div>
+                <p class="text-grey-dark hover:text-black font-bold ">ADD TO CART</p>
+            </div>
+        </div>
+        <div class="flex flex-col max-w-xs mt-4 flex-1"> <!--CATEGORY ITEM-->
+            <div class="bg-grey" style="height: 28rem; width: 20rem" ></div>
+            <p class="text-black text-sm font-bold uppercase mt-2">blazer rojo</p>
+            <div class="flex justify-between flex-row-reverse  py-2">
+                <div class="flex">
+                    <p class="text-black font-bold pr-4 uppercase line-through">$ 1500 </p>
+                    <p class="text-black font-bold pr-2 uppercase text-red-dark">$ 1199 </p>    
+                </div>
+                <p class="text-grey-dark hover:text-black font-bold ">ADD TO CART</p>
+            </div>
+        </div>
+        
+        
+    </div>
+</div>
