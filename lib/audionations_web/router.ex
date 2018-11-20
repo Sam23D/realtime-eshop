@@ -18,6 +18,7 @@ defmodule AudionationsWeb.Router do
 
     get "/", PageController, :index
     get "/catalog", PageController, :catalog_index
+    get "/cart", PageController, :cart
   end
 
   # Other scopes may use custom stacks.

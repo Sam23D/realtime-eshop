@@ -9,4 +9,10 @@ defmodule AudionationsWeb.PageController do
     render(conn, "catalog.html")
   end
 
+  
+  def cart(conn, params \\ %{} )do
+    render(conn, "cart.html")
+  end
+
+
 end
